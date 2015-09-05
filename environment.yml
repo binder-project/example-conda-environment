@@ -1,7 +1,7 @@
 name: example-environment
 
 dependencies:
-  - python=3.4
+  - python=2.7
   - numpy
   - toolz
   - matplotlib
@@ -11,4 +11,3 @@ dependencies:
   - bokeh
   - pip:
     - git+https://github.com/blaze/dask.git#egg=dask[complete]
-    - git+https://github.com/blaze/castra.git#egg=castra
