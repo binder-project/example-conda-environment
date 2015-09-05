@@ -8,6 +8,3 @@ dependencies:
   - dill
   - pandas
   - partd
-  - blaze
-  - pip:
-      - git+https://github.com/blaze/dask.git#egg=dask[complete]
