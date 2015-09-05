@@ -1,8 +1,5 @@
 name: example-environment
 
-channels:
-  - mutirri # linux
-
 dependencies:
   - pip
   - numpy
@@ -12,9 +9,5 @@ dependencies:
   - pandas
   - partd
   - blaze
-  - bokeh
-  - graphviz
   - pip:
       - git+https://github.com/blaze/dask.git#egg=dask[complete]
-      - git+https://github.com/blaze/castra.git#egg=castra
-      - graphviz
