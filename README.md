@@ -11,5 +11,3 @@ using the following conda commands:
 source activate example-environment
 conda env export > environment.yml
 ```
-
-Note that many scientific Python libraries (e.g. `numpy`, `scipy`, `sklearn`, etc.) are included already because the [`base`](https://github.com/binder-project/binder/blob/master/images/base/Dockerfile) image for Binder is built on Anaconda.
