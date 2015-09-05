@@ -1,4 +1,4 @@
-name: binder
+name: example-environment
 
 dependencies:
   - pip
