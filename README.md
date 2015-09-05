@@ -11,3 +11,5 @@ using the following conda commands:
 source activate example-environment
 conda env export > environment.yml
 ```
+
+Note that the only libraries available to you will be the ones specified in the `environment.yml`, so be sure to include everything that you need!
