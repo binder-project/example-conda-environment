@@ -1,7 +1,7 @@
 name: example-environment
 
 dependencies:
-  - python=3.4
+  - python=2.7
   - numpy
   - toolz
   - matplotlib
