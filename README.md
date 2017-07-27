@@ -1,3 +1,9 @@
+# THIS REPOSITORY IS DEPRECATED, SEE BELOW FOR THE UP-TO-DATE VERSION
+
+New version: https://github.com/binder-examples/conda_environment
+
+---
+
 # Example Binder with environment.yml
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-conda-environment)
